@@ -26,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0960F4D4175CC31C00EC620E /* MyLibTestCocoaPods.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MyLibTestCocoaPods.podspec; sourceTree = "<group>"; };
 		09F09EB8175CBD0600430C6A /* libMyLibTestCocoaPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMyLibTestCocoaPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		09F09EBB175CBD0600430C6A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		09F09EBF175CBD0600430C6A /* MyLibTestCocoaPods-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyLibTestCocoaPods-Prefix.pch"; sourceTree = "<group>"; };
@@ -48,6 +49,7 @@
 		09F09EAF175CBD0600430C6A = {
 			isa = PBXGroup;
 			children = (
+				0960F4D4175CC31C00EC620E /* MyLibTestCocoaPods.podspec */,
 				09F09EBD175CBD0600430C6A /* MyLibTestCocoaPods */,
 				09F09EBA175CBD0600430C6A /* Frameworks */,
 				09F09EB9175CBD0600430C6A /* Products */,
@@ -242,6 +244,7 @@
 				09F09EC8175CBD0600430C6A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
