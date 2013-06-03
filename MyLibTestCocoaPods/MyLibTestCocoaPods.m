@@ -10,4 +10,10 @@
 
 @implementation MyLibTestCocoaPods
 
+-(NSString *) method1 {
+
+    return @"method1";
+}
+
+
 @end

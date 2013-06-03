@@ -10,4 +10,6 @@
 
 @interface MyLibTestCocoaPods : NSObject
 
+-(NSString *) method1;
+
 @end
